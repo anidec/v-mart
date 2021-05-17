@@ -183,8 +183,9 @@ nav{
     .middle-1{
         background-color: #e1e5ea;
         color: black;
-        clip-path: unset !important;
-        /* padding: 50px; */
+        clip-path: none !important;
+        padding-left: 100px !important;
+        padding-right: 100px !important;
         /* margin: 5%; */
     }
 	.main-heading{	
